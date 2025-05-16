@@ -3,12 +3,13 @@ import Chai from "./chai"
 
 function App() {
   
+  const username = "Gaurav"
 
   return (
     <>
     <p>This is chai aur code session</p>
     <Chai/>
-    <h1>chai aur code | Gaurav</h1>
+    <h1>chai aur code | {username}</h1>
     </>
    
   )
