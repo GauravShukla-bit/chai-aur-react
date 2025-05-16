@@ -32,9 +32,6 @@ const anotherElement =
 
 ReactDom.createRoot(document.getElementById('root')).render(
   
-    // <MyApp />
-    // anotherElement
-    // reactElement
     <App/>
   
 )
